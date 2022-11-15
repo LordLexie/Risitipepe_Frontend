@@ -1,0 +1,33 @@
+[20-Sep-2022 13:07:20 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[20-Sep-2022 13:07:20 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[20-Sep-2022 13:07:20 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[20-Sep-2022 13:07:21 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[20-Sep-2022 13:07:21 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[20-Sep-2022 13:07:21 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:06:54 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:06:54 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:06:54 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:06:55 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:06:55 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:06:55 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:06:56 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:06:56 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:06:56 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:06:57 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:06:57 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:06:57 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:06:57 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:06:57 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:06:57 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:06:58 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:06:58 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:06:58 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:06:59 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:06:59 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:06:59 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[18-Oct-2022 12:07:00 Africa/Nairobi] PHP Warning:  Undefined variable $img in /home/risitip2/public_html/read.php on line 101
+[18-Oct-2022 12:07:00 Africa/Nairobi] PHP Warning:  Undefined variable $title in /home/risitip2/public_html/read.php on line 104
+[18-Oct-2022 12:07:00 Africa/Nairobi] PHP Warning:  Undefined variable $content in /home/risitip2/public_html/read.php on line 107
+[05-Nov-2022 11:37:40 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/risitip2/public_html/standard/lib.php on line 26
+[05-Nov-2022 11:37:40 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/risitip2/public_html/standard/lib.php on line 35
+[05-Nov-2022 11:37:40 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/risitip2/public_html/blog.php on line 85
